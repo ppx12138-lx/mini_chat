@@ -8,7 +8,9 @@
 
 
 ## 分支管理
-
+- master：主分支
+- dev-xx功能点：开发分支
+- fix-yyyymmdd: 修复分支
 
 
 
